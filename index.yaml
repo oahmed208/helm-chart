@@ -51,6 +51,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://charts.jenkins.io/jenkins-4.3.22.tgz
+    - jenkins-4.3.22.tgz
     version: 4.3.22
 generated: "2023-04-23T11:48:29.848392+05:30"
